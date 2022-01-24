@@ -233,7 +233,7 @@ section .title::after{
     background:#fff;
 }
 .services .title::after{
-    content:"what i provide";
+    content:"what i do";
     background: #111;
 }
 
